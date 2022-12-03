@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>product</key>
+	<array>
+		<string>airpod pro</string>
+		<string>BMW I8</string>
+		<string>huawei P30</string>
+		<string>ipad pro</string>
+		<string>iphone13</string>
+		<string>lamborghini aventador</string>
+		<string>macbook m1</string>
+		<string>GTR-34</string>
+		<string>GTR-35</string>
+		<string>teslamodel-x</string>
+	</array>
+	<key>Web</key>
+	<array>
+		<string>https://www.apple.com/th/shop/product/MLWK3ZA/A/airpods-pro</string>
+		<string>https://www.autofun.co.th/cars/bmw/i8</string>
+		<string>https://consumer.huawei.com/th/phones/p30/</string>
+		<string>https://www.dotlife.store/apple/ipad/ipad-pro.html?gclid=Cj0KCQjw5oiMBhDtARIsAJi0qk3D0wRo7tQad_UfckZ0GoLIFcglS9RVeCTupn-eNGZyjRCoA4tvfrUaAjPHEALw_wcB</string>
+		<string>https://www.apple.com/th/shop/buy-iphone/iphone-13</string>
+		<string>https://www.checkraka.com/car/lamborghini/aventador/</string>
+		<string>https://www.apple.com/th/macbook-pro-14-and-16/</string>
+		<string>https://www.headlightmag.com/news-nissan-skyline-gt-r-m-spec-nur-r34-set-new-price-record/</string>
+		<string>https://www.nissan.co.th/vehicles/new-vehicles/gt-r.html</string>
+		<string>https://www.tesla.com/modelx</string>
+	</array>
+	<key>Img</key>
+	<array>
+		<string>airpodpro.jpg</string>
+		<string>bmwi8.jpg</string>
+		<string>huaweip30.jpg</string>
+		<string>ipadpro.jpg</string>
+		<string>iphone13.jpg</string>
+		<string>lamborghini aventador.jpg</string>
+		<string>macbookm1.jpg</string>
+		<string>r34.jpg</string>
+		<string>r35.jpg</string>
+		<string>TESLAmodelx.jpg</string>
+	</array>
+	<key>youtube</key>
+	<array>
+		<string>https://www.youtube.com/watch?v=BkwwF8QJQBE&amp;t=313s</string>
+		<string>https://www.youtube.com/watch?v=EP28lftasns&amp;t=852s</string>
+		<string>https://www.youtube.com/watch?v=Fzk_qB_w4m4</string>
+		<string>https://www.youtube.com/watch?v=chTCsaWIu44</string>
+		<string>https://www.youtube.com/watch?v=nDu0LdGDvVw</string>
+		<string>https://www.youtube.com/watch?v=kkP3QU9oYGQ</string>
+		<string>https://www.youtube.com/watch?v=wenBUoAeMDU</string>
+		<string>https://www.youtube.com/watch?v=oAjs_-knI6s</string>
+		<string>https://www.youtube.com/watch?v=R70493aLrrQ</string>
+		<string>https://www.youtube.com/watch?v=PTFZcjiz_OQ</string>
+	</array>
+</dict>
+</plist>
